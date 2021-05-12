@@ -20,7 +20,7 @@
     "create-hash": "^1.2.0",
     "create-hmac": "^1.1.7",
     "js-sha256": "^0.9.0",
-    "mathjs": "^5.2.3",
+    "mathjs": "^7.5.1",
     "npm-assets": "^0.1.2",
     "pbkdf2": "^3.0.17",
     "protobufjs": "^6.8.8",
